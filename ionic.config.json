@@ -1,0 +1,7 @@
+{
+  "name": "firstsmeui",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
